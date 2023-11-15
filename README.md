@@ -1,6 +1,6 @@
 👋 Olá, eu sou João Gustavo!
 
-🚀 Desenvolvedor entusiasta e apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados. Atualmente, meu foco está em Front End.
+🚀 Desenvolvedor entusiasta e apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados. Atualmente, meu foco está em Full Stack.
 
 💻 Trabalho principalmente com Javascript, e estou constantemente explorando novas maneiras de melhorar minhas habilidades.
 
